@@ -10,10 +10,4 @@ Video Playback: Users can watch videos within the application, with a video play
 Video Details: Detailed video information such as title, description, view count, likes, dislikes, and comments are displayed.
 
 Technologies Used
-HTML: Used for structuring the web pages and content.
-
-CSS: Employed for styling and making the application visually appealing.
-
-JavaScript: Implemented for handling user interactions, fetching data from the YouTube API, and rendering the videos.
-
-YouTube API: Integrated to retrieve video data and enable video playback.
+HTML , CSS , JavaScript , Youtube API
